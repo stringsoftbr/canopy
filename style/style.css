@@ -1,0 +1,63 @@
+.font-size-1 {
+    font-size: 2.7em;
+}
+
+.font-size-2 {
+    font-size: 2.5em;
+}
+
+.font-size-3 {
+    font-size: 1.3em;
+}
+
+.font-size-4 {
+    font-size: 1.2em;
+}
+
+.font-size-5 {
+    font-size: 1.1em;
+}
+
+.font-size-6 {
+    font-size: 1em;
+}
+
+.font-size-6 {
+    font-size: 0.9em;
+}
+
+.config {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.primary-color {
+    background-color: #232555;
+}
+
+.secondary-color {
+    background-color: #fbf6f0;
+    /* background-color: gray; */
+}
+
+.text-red {
+    color: red;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.title-item-footer {
+    display: block;
+    font-size: 1.35em;
+    color: rgb(85, 84, 84);
+    margin-bottom: 0.8em;
+}
+
+.item-footer {
+    display: block;
+    font-size: 1.2em;
+    color: black;
+    margin-bottom: 0.4em;
+}
