@@ -1,5 +1,7 @@
 .font-size-1 {
-    font-size: 2.7em;
+    font-size: 3.5em;
+    font-family: "Yantramanav";
+    line-height: 97%;
 }
 
 .font-size-2 {
@@ -53,14 +55,18 @@
 
 .title-item-footer {
     display: block;
-    font-size: 1.35em;
+    font-size: 1em;
     color: rgb(85, 84, 84);
     margin-bottom: 0.8em;
 }
 
 .item-footer {
     display: block;
-    font-size: 1.1em;
-    color: black;
+    font-size: 0.9em;
     margin-bottom: 0.4em;
+    text-decoration: none;
+    color: black; 
+}
+.item-footer:hover{
+    color: #232555;    
 }
